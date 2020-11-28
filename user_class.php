@@ -33,7 +33,7 @@ class User
 
 }
  $example = new User();
- $example ->set_name("Rose Kyla C. Fernandez");
+ $example ->set_name("Rose Kyla Fernandez");
  $example ->set_username("rosekyla.fernandez");
  $example ->set_email("rosekylaf@gmail.com");
 
